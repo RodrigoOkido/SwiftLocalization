@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Rodrigo Yukio Okido on 18/09/21.
+  
+*/
+
+// MARK: - Title
+"navTitle" = "Localización";
+
+// MARK: - Localization status
+"flag" = "Spanish";
+"countryName" = "España";
+"language" = "Español";
+
+"aboutLocalization" = "La localización es el proceso de traducir y adaptar su aplicación a varios idiomas y regiones. Localice su aplicación para brindar acceso a los usuarios que hablan varios idiomas y que descargan desde diferentes territorios de la App Store.\n\nAgrega una localización a su proyecto y selecciona los recursos que desea incluir para ese idioma y región. Exporte la localización y envíe los archivos a los localizadores, quienes traducen el texto de cara al usuario y adaptan los recursos para culturas y regiones particulares. Finalmente, importa los archivos localizados y prueba la aplicación en ese idioma y región directamente en Xcode.\n\nEste idioma de texto se muestra de acuerdo con el idioma utilizado en su IOS. Intente cambiar su idioma IOS y vuelva a ejecutar el programa. Este ejemplo tiene soporte para Inglés | Portugués | Español";

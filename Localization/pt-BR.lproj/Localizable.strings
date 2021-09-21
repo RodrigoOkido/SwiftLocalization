@@ -15,4 +15,4 @@
 "language" = "Português (PT-BR)";
 
 "aboutLocalization" = "Localização é o processo de traduzir e adaptar seu aplicativo para múltiplas linguagens e regiões. Localize seu aplicativo para fornecer acesso a usuários que falam vários idiomas e que fazem download de diferentes territórios da App Store. \n\nVocê adiciona uma localização ao seu projeto e seleciona os recursos que deseja incluir para aquele idioma e região. Exporte a localização e envie os arquivos para os localizadores, que traduzem o texto voltado para o usuário e adaptam os recursos para culturas e regiões específicas. Finalmente, você importa os arquivos localizados e testa o aplicativo naquele idioma e região diretamente no Xcode.
-    \n\nEste texto está sendo transcrito de acordo com a linguagem usada no seu IOS. Experimente mudar a linguagem do seu IOS e reexecute o programa. Este exemplo possui suporte para Inglês | Português.";
+    \n\nEste texto está sendo transcrito de acordo com a linguagem usada no seu IOS. Experimente mudar a linguagem do seu IOS e reexecute o programa. Este exemplo possui suporte para Inglês | Português | Espanhol.";
