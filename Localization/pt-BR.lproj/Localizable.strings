@@ -10,6 +10,7 @@
 "navTitle" = "Localização";
 
 // MARK: - Localization status
+"color" = "Green";
 "flag" = "Brasil";
 "countryName" = "Brasil";
 "language" = "Português (PT-BR)";

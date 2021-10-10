@@ -10,6 +10,7 @@
 "navTitle" = "Localización";
 
 // MARK: - Localization status
+"color" = "Red";
 "flag" = "Spanish";
 "countryName" = "España";
 "language" = "Español";
